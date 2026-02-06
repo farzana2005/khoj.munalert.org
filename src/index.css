@@ -1,0 +1,77 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: "Bethany_Elingston";
+  src: url("/fonts/Bethany_Elingston.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "Centra";
+  src: url("/fonts/Centra-No2.ttf") format("truetype");
+}
+
+@theme {
+  --font-bethany: "Bethany_Elingston", sans-serif;
+  --font-centra: "Centra", sans-serif;
+}
+
+@layer base {
+  body {
+    background-color: #212121;
+    color: #e6e6e6;
+    font-family: var(--font-centra);
+    font-size: 1rem;
+  }
+}
+
+
+.custom-bg-overlay::before {
+  content: "";
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(180deg, rgba(0, 0, 0, .2), transparent 12.03%), linear-gradient(180deg, transparent 86.57%, rgba(0, 0, 0, .2)), linear-gradient(0deg, rgba(0, 0, 0, .1), rgba(0, 0, 0, .1));
+  z-index: 11;
+}
+
+
+
+
+
+/* start */
+
+.marquee-container {
+  width: 100%;
+  overflow: hidden;
+  margin: 40px 0;
+}
+
+.marquee-track {
+  display: flex;
+  gap: 50px;
+  width: max-content;
+  animation: scroll-left 15s linear infinite;
+}
+
+.marquee-track img {
+  width: 150px;
+  height: 225px;
+  object-fit: cover;
+  border-radius: 12px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4);
+}
+
+@keyframes scroll-left {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-50%); } /* duplicate images ensure seamless scroll */
+}
+
+
+
+
+
+
+
