@@ -3,7 +3,6 @@ import partner from "../assets/partner.png"; // Center logo (optional)
 import { FiPhone, FiMail } from "react-icons/fi";
 import { FaFacebookF, FaInstagram, FaYoutube, FaTwitter } from "react-icons/fa";
 
-
 export default function Footer() {
   return (
     <footer className="bg-[#0a0a0a] text-white w-full mt-12">
@@ -13,7 +12,6 @@ export default function Footer() {
         <div className="flex-1 flex flex-col gap-4">
           <div className="flex items-center gap-3">
             <img src={footerLogo} alt="footerLogo" className="h-40 w-auto" />
-            
           </div>
           <p className="text-white/80 text-sm">
             নিখোঁজ শিশুদের রিপোর্ট এবং খুঁজে বের করার জন্য বাংলাদেশের জাতীয় প্ল্যাটফর্ম। প্রতিটি সেকেন্ড গুরুত্বপূর্ণ। একসাথে, আমরা শিশুদের ঘরে ফিরিয়ে আনি।
