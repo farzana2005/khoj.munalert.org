@@ -2,7 +2,7 @@ import footerLogo from "../assets/footerLogo.png"; // MUN Alert logo
 import partner from "../assets/partner.png"; // Center logo (optional)
 import { FiPhone, FiMail } from "react-icons/fi";
 import { FaFacebookF, FaInstagram, FaYoutube, FaTwitter } from "react-icons/fa";
-import { footer } from "motion/react-client";
+
 
 export default function Footer() {
   return (
