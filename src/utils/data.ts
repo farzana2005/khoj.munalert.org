@@ -32,7 +32,7 @@ export const memories = [
   image_src: {
     small: zunayedHasanSokal,
     large: zunayedHasanSokal,
- link: "junayed-sakal", // <-- manually assign
+ 
   },
   story: `ঢাকার লালবাগ থেকে সকাল নামের একটি শিশু জানুয়ারি ২০১৮ থেকে নিখোঁজ।
 আজ পেরিয়েছে ৮ বছর, তবুও তাকে উদ্ধার করা যায়নি।
