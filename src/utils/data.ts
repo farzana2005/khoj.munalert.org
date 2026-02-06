@@ -49,7 +49,7 @@ export const memories = [
 {
   name: "আব্দুল মজিদ",
   seat: "আসন:ঢাকা-১৮ ",
-  dates: "16 September 2025",
+  dates: "February, 2025",
   image_src: {
     small: abdulMazidImg,
     large: abdulMazidImg,
@@ -60,8 +60,8 @@ export const memories = [
 
 {
   name: "আবদুল্লাহ তামিম",
-   seat: "ঢাকা-১৮ আসন ",
-  dates: "16 September 2025",
+   seat: "রাজবাড়ী-০১ আসন",
+  dates: "May, 2025",
   image_src: {
     small: abdullahTamim,
     large: abdullahTamim,
@@ -76,8 +76,8 @@ export const memories = [
 
 {
   name: "ফাহিম মিয়া",
-   seat: "আসন:ঢাকা-১৮ ",
-  dates: "16 September 2025",
+   seat: "নরসিংদী-০৫ আসন",
+  dates: "2026",
   image_src: {
     small: fahimMiya,
     large: fahimMiya,
@@ -87,8 +87,8 @@ export const memories = [
 
 {
   name: "হাসান",
-   seat: "আসন:ঢাকা-১৮ ",
-  dates: "16 September 2025",
+   seat: "চট্টগ্রাম-০৮ আসন",
+  dates: "December, 2025",
   image_src: {
     small: hasanImg,
     large: hasanImg,
@@ -98,8 +98,8 @@ export const memories = [
 
 {
   name: "ইকরা ইসলাম",
-  seat: "আসন:ঢাকা-১৮ ",
-  dates: "16 September 2025",
+  seat: "গাজীপুর-০২ আসন",
+  dates: "September, 2025",
   image_src: {
     small: ikraIslam,
     large: ikraIslam,
@@ -109,8 +109,8 @@ export const memories = [
 
 {
   name: "খাদিজা মায়া",
-  seat: "আসন:ঢাকা-১৮ ",
-  dates: "16 September 2025",
+  seat: "চাঁদপুর-০২ আসন",
+  dates: "February, 2022",
   image_src: {
     small: khadizaMaya,
     large: khadizaMaya,
@@ -120,8 +120,8 @@ export const memories = [
 
 {
   name: "মোঃ ইব্রাহিম",
-  seat: "ঢাকা-১৮ আসন ",
-  dates: "16 September 2025",
+  seat: "গাজীপুর-০২ আসন",
+  dates: "November, 2025",
   image_src: {
     small: mdIbrahim,
     large: mdIbrahim,
@@ -132,8 +132,8 @@ export const memories = [
 
 {
   name: "সিয়াম আলী",
-  seat: "ঢাকা-১৮ আসন ",
-  dates: "16 September 2025",
+  seat: "কুষ্টিয়া-০২ আসন",
+  dates: "November, 2025",
   image_src: {
     small:siyamAli ,
     large: siyamAli,
@@ -143,8 +143,8 @@ export const memories = [
 
 {
   name: "মোঃ তাসিম",
-  seat: "ঢাকা-১৮ আসন ",
-  dates: "16 September 2025",
+  seat: "চট্টগ্রাম-০২ আসন",
+  dates: "February, 2025",
   image_src: {
     small: tasimImg,
     large: tasimImg,
@@ -154,8 +154,8 @@ export const memories = [
 
 {
   name: "মোঃ আয়মান",
-  seat: "ঢাকা-১৮ আসন ",
-  dates: "16 September 2025",
+  seat: "নারায়ণগঞ্জ - ০৪ আসর",
+  dates: "August 6, 2025",
   image_src: {
     small: mdAymanImg,
     large: mdAymanImg,
@@ -165,8 +165,8 @@ export const memories = [
 
 {
   name: "মোঃ হোসেন",
-  seat: "ঢাকা-১৮ আসন ",
-  dates: "16 September 2025",
+  seat: "রাজশাহী-০১ আসন",
+  dates: "2026",
   image_src: {
     small: mdHossain,
     large: mdHossain,
@@ -176,8 +176,8 @@ export const memories = [
 
 {
   name: "মুস্তাফিজ",
-  seat: "ঢাকা-১৮ আসন ",
-  dates: "16 September 2025",
+  seat: "দিনাজপুর-০৫ আসন",
+  dates: "January, 2026",
   image_src: {
     small:mustafizImg,
     large: mustafizImg,
@@ -187,8 +187,8 @@ export const memories = [
 
 {
   name: "রেংনায়া মুরুং",
-  seat: "ঢাকা-১৮ আসন ",
-  dates: "16 September 2025",
+  seat: "বান্দরবান আসন",
+  dates: "October, 2025",
   image_src: {
     small: rengnayaMurung,
     large: rengnayaMurung,
@@ -198,8 +198,8 @@ export const memories = [
 
 {
   name: "রিহান হোসেন",
-  seat: "ঢাকা-১৮ আসন ",
-  dates: "16 September 2025",
+  seat: "সাতক্ষীরা- ০২ আসন",
+  dates: "2026",
   image_src: {
     small: rihanHossain,
     large: rihanHossain,
@@ -231,8 +231,8 @@ export const memories = [
 
 {
   name: "জুবায়ের হোসেন",
-  seat: "ঢাকা-১৮ আসন ",
-  dates: "16 September 2025",
+  seat: "ঢাকা-২০ আসন",
+  dates: "2026",
   image_src: {
     small: zubayerHossain,
     large: zubayerHossain,
